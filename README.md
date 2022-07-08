@@ -1,3 +1,3 @@
 # CRUD-php
-Dasar
+CRUD Dasar.
 coba2 aja
